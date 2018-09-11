@@ -3,9 +3,9 @@
 # Profile Information
 Name: Daniel Sixto
 
-E-mail: (Daniel.s.1093@gmail.com)
+![Gmail icon](Gmail.png) [E-mail](Daniel.s.1093@gmail.com)
 
-LinkedIn: (https://www.linkedin.com/in/danielsixto/)
+![LinkedIn icon](LinkedIn.png) [LinkedIn](https://www.linkedin.com/in/danielsixto/)
 
 
 ## Education
