@@ -16,7 +16,7 @@ Name: Daniel Sixto
 
      2010 - Present
 
-     Currently pursing an Associate Degree at MiraCosta College, 
+     Currently pursuing an Associate Degree at MiraCosta College, 
      while also obtaining units necessary to transfer in order to obtain a Bachelor's Degree.
 
 ## Volunteer Service
@@ -26,7 +26,7 @@ Name: Daniel Sixto
     April 2017, April 2018
 
     Worked with K-8th grade kids and their families in order to promote
-    Science, Technology, Reading, Englineering, Arts, and Math.
+    Science, Technology, Reading, Engineering, Arts, and Math.
     
 ## Clubs/ Outreach
 
