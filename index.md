@@ -1,9 +1,11 @@
+![Daniel Profile Image](20180625_054931.jpg)
+
 # Profile Information
 Name: Daniel Sixto
 
-[Email](Daniel.s.1093@gmail.com)
+E-mail: (Daniel.s.1093@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/danielsixto/)
+LinkedIn: (https://www.linkedin.com/in/danielsixto/)
 
 
 ## Education
