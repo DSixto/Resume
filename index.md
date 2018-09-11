@@ -1,37 +1,85 @@
 # Profile Information
 Name: Daniel Sixto
-[Email:](Daniel.s.1093@gmail.com)
-[LinkedIn:](https://www.linkedin.com/in/danielsixto/)
+
+[Email](Daniel.s.1093@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/danielsixto/)
 
 
-### Markdown
+## Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **MiraCosta College**
 
-```markdown
-Syntax highlighted code block
+      Major: Computer Science
 
-# Header 1
-## Header 2
-### Header 3
+      2010 - Present
 
-- Bulleted
-- List
+      Currently pursing an Associate Degree at MiraCosta College, 
+      while also obtaining units necessary to transfer in order to obtain a    
+      Bachelors Degree.
 
-1. Numbered
-2. List
+## Volunteer Service
 
-**Bold** and _Italic_ and `Code` text
+- **Stream Festival**
 
-[Link](url) and ![Image](src)
-```
+    April 2017, April 2018
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    Worked with K-8th grade kids and their families in order to promote
+    Science, Technology, Reading, Englineering, Arts, and Math.
+    
+## Clubs/ Outreach
 
-### Jekyll Themes
+- **CS Fridays**
+    
+    Spring 2017
+    
+    Aspiring Computer Science major students would explore various topics within the field to talk about.
+    
+- **CS Club**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DSixto/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    Fall 2017
+    
+    Club for computer scientists, software developers, and everyone interested in computers.
+    
+- **EChALE STEM**
 
-### Support or Contact
+    Spring 2018, Fall 2018
+    
+    Club To empower the Chicanx/Latinx community within STEM fields while integrating cultural appreciation.
+    
+    
+## Personal Projects (Final Projects)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- **CS111**
+
+    Created a simple pokemon battle simulator with Java.
+
+- **CS112**
+    
+    Created a basic inventory storage system based off procedures used within my department at work using Java.
+
+## Experiences
+
+ - **United State Marine Corps**
+      
+     Title: Warehouse NCO/ Platoon Sergeant
+ 
+     2012 - 2016
+     
+     Supervision of 22 Marines using small unit leadership.
+     Responsibility of training, leading, monitoring, mentoring, and supervising.
+     Liaison between subordinate troops and superior officers.
+     
+     
+## Certificates
+
+- **U.S. Department of Labor**
+    
+    Computer Operator Apprenticeship
+    
+    License N93063-552990
+
+     
+     
+
+
