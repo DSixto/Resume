@@ -12,13 +12,12 @@ Name: Daniel Sixto
 
 - **MiraCosta College**
 
-      Major: Computer Science
+     Major: Computer Science
 
-      2010 - Present
+     2010 - Present
 
-      Currently pursing an Associate Degree at MiraCosta College, 
-      while also obtaining units necessary to transfer in order to obtain a    
-      Bachelors Degree.
+     Currently pursing an Associate Degree at MiraCosta College, 
+     while also obtaining units necessary to transfer in order to obtain a Bachelor's Degree.
 
 ## Volunteer Service
 
@@ -49,6 +48,10 @@ Name: Daniel Sixto
     
     Club To empower the Chicanx/Latinx community within STEM fields while integrating cultural appreciation.
     
+   - Outreach: Crown Heights
+    
+       Empowered younger children in order to potentially explore STEM related fields and to expand their options.
+    
     
 ## Personal Projects (Final Projects)
 
@@ -60,7 +63,7 @@ Name: Daniel Sixto
     
     Created a basic inventory storage system based off procedures used within my department at work using Java.
 
-## Experiences
+## Experience
 
  - **United State Marine Corps**
       
@@ -80,8 +83,3 @@ Name: Daniel Sixto
     Computer Operator Apprenticeship
     
     License N93063-552990
-
-     
-     
-
-
